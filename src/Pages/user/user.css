@@ -1,0 +1,42 @@
+.cards-containers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .horizontal-cardss {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .cards {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    width: calc(16.666% - 10px); 
+    box-sizing: border-box;
+  }
+
+  .slidepic{
+    width:100%
+  }
+  .slidetext{
+    margin-bottom: 250px;
+    color:white;
+  }
+  .linktext{
+    text-decoration:none;
+    color:black;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      width: calc(33.333% - 10px); 
+    }
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
