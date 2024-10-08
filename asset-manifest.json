@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aaniya/static/css/main.c803cbdc.css",
+    "main.js": "/aaniya/static/js/main.0188a486.js",
+    "static/js/453.74755f64.chunk.js": "/aaniya/static/js/453.74755f64.chunk.js",
+    "static/media/41.jpg": "/aaniya/static/media/41.2bfb4fa1b2fd4ee3c6f4.jpg",
+    "static/media/client-suit-boutique-with-shopping-bags_7502-4397.jpg": "/aaniya/static/media/client-suit-boutique-with-shopping-bags_7502-4397.33de32d63690c20bba27.jpg",
+    "static/media/istockphoto-473046068-612x612.jpg": "/aaniya/static/media/istockphoto-473046068-612x612.b3627819403d4048b8a6.jpg",
+    "static/media/fashion-store-female-shop-outlet-sale-boutique-women-shopping-person-buy-dress-tshirt-shoes-vector-illustration_53562-15507.jpg": "/aaniya/static/media/fashion-store-female-shop-outlet-sale-boutique-women-shopping-person-buy-dress-tshirt-shoes-vector-illustration_53562-15507.b943c04ccf75812707a8.jpg",
+    "static/media/10-phantom-new-limits-blue-original-imagk9y5zwra4zjy.webp": "/aaniya/static/media/10-phantom-new-limits-blue-original-imagk9y5zwra4zjy.8205e7f7c8c38d13ce36.webp",
+    "static/media/jean.jpg": "/aaniya/static/media/jean.0a3d1cd6fac16e11fa0b.jpg",
+    "static/media/tshirts.webp": "/aaniya/static/media/tshirts.678a973df6bb66b6c042.webp",
+    "index.html": "/aaniya/index.html",
+    "main.c803cbdc.css.map": "/aaniya/static/css/main.c803cbdc.css.map",
+    "main.0188a486.js.map": "/aaniya/static/js/main.0188a486.js.map",
+    "453.74755f64.chunk.js.map": "/aaniya/static/js/453.74755f64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c803cbdc.css",
+    "static/js/main.0188a486.js"
+  ]
+}
